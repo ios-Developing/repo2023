@@ -1,0 +1,11 @@
+var numbers: [Int] = [2,5,13,7,6,4]
+var size = 6
+var sum = 0
+var avg: Double = 0
+var index = 0
+while index < size {
+        sum = sum + numbers[index]
+        index += 1
+}
+avg = Double(sum) / Double(size)
+print("Среднее арифметическое:", avg)
