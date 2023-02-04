@@ -62,4 +62,4 @@ Git instruction
 #Опубликовать локальные изменения в удаленном репозитории
     git push <репо> <ветка>
 
-checkout
+checkout1
